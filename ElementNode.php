@@ -2,8 +2,6 @@
 
 namespace JBBCode;
 
-require_once 'Node.php';
-
 /**
  * @author Jackson Owens
  *

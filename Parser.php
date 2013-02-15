@@ -3,13 +3,6 @@
 namespace JBBCode;
 use JBBCode\CodeDefinition;
 
-require_once 'ElementNode.php';
-require_once 'TextNode.php';
-require_once 'DocumentElement.php';
-require_once 'CodeDefinition.php';
-require_once 'TokenManager.php';
-require_once 'NodeVisitor.php';
-
 /**
  * @author Jackson Owens
  *
